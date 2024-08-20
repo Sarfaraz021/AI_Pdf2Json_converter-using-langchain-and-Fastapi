@@ -1,0 +1,131 @@
+{
+  "Certificate Type": "Chemistry",
+  "Lab": "Aqua Solve",
+  "Interim": "false",
+  "Customer": "Elysator UK"
+  "Job Number": "13186",
+  "Date Received": "11/04/2022",
+  "Date Reported": "13/04/2022",
+  "Sample Date": "06/04/2022",
+  "Site Name": "YBS East",
+  "No of Samples": 1,
+  "Samples": [
+    {
+      "Lab Sample No": "Sample 1",
+      "Sample Deviations": "",
+      "Time Taken": "",
+      "Sample Type": "",
+      "Matrix": "",
+      "Temperature at Sampling (°C)": "",
+      "Other ID": "",
+      "Sample ID": "CHW",
+      "No of Items": 17,
+      "First item": "pH",
+      "Last item": "Aluminium, Dissolved",
+      "Results": [
+        {
+          "Analysis": "pH",
+          "Method": "",
+          "Unit": "pH",
+          "Result": "9.3"
+        },
+        {
+          "Analysis": "Conductivity",
+          "Method": "",
+          "Unit": "mS",
+          "Result": "1216"
+        },
+        {
+          "Analysis": "Refractive Index",
+          "Method": "",
+          "Unit": "% Sugar",
+          "Result": "0.0"
+        },
+        {
+          "Analysis": "% MEG",
+          "Method": "",
+          "Unit": "%",
+          "Result": "0.0"
+        },
+        {
+          "Analysis": "Suspended Solids",
+          "Method": "",
+          "Unit": "mg/l",
+          "Result": "38"
+        },
+        {
+          "Analysis": "Total Hardness as CaCO3",
+          "Method": "",
+          "Unit": "mg/l",
+          "Result": "78.0"
+        },
+        {
+          "Analysis": "Chloride as Cl",
+          "Method": "",
+          "Unit": "mg/l",
+          "Result": "10.4"
+        },
+        {
+          "Analysis": "Nitrite as NO2",
+          "Method": "",
+          "Unit": "mg/l",
+          "Result": "374.6"
+        },
+        {
+          "Analysis": "Nitrate as NO3",
+          "Method": "",
+          "Unit": "mg/l",
+          "Result": "0.9"
+        },
+        {
+          "Analysis": "Sulphur as SO4",
+          "Method": "",
+          "Unit": "mg/l",
+          "Result": "39.9"
+        },
+        {
+          "Analysis": "Molybdate, as MoO4",
+          "Method": "",
+          "Unit": "mg/l",
+          "Result": "1.5"
+        },
+        {
+          "Analysis": "Iron, Total",
+          "Method": "",
+          "Unit": "mg/l",
+          "Result": "0.21"
+        },
+        {
+          "Analysis": "Iron, Dissolved",
+          "Method": "",
+          "Unit": "mg/l",
+          "Result": "0.10"
+        },
+        {
+          "Analysis": "Copper, Total",
+          "Method": "",
+          "Unit": "mg/l",
+          "Result": "0.10"
+        },
+        {
+          "Analysis": "Copper, Dissolved",
+          "Method": "",
+          "Unit": "mg/l",
+          "Result": "0.10"
+        },
+        {
+          "Analysis": "Aluminium, Total",
+          "Method": "",
+          "Unit": "mg/l",
+          "Result": "0.06"
+        },
+        {
+          "Analysis": "Aluminium, Dissolved",
+          "Method": "",
+          "Unit": "mg/l",
+          "Result": "0.00"
+        }
+      ]
+    }
+  ]
+}
