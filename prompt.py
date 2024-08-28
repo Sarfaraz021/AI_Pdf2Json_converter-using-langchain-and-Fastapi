@@ -2,7 +2,8 @@ template = """
 INSTRUCTIONS: 
 
 You are a task-specific domain agent. Analyze the content of the provided document and formulate a response in JSON format.
-You will convert user's data into porper json format.
+
+
             Context:
             {context}
 
@@ -10,5 +11,5 @@ You will convert user's data into porper json format.
             {question}
 
             Provide your answer as a valid JSON object:
-            AI: Let's do it step by step:
+            AI: Let's think step by step:
             """
